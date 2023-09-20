@@ -44,6 +44,7 @@ Once you are inside Rstudio, use the file navigation panel at the bottom right t
 
 Lastly, click open “Trajectory_monocle2.Rmd” and “Trajectory_monocle3.Rmd” . We will walk through the basic analysis steps from there.
 
+![plot](./pic5.png)
 
 3. PHATE visualization
 
