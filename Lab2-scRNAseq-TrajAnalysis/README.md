@@ -35,7 +35,7 @@ Additional modules (optional): R-bundle-Bioconductor/3.15-foss-2020b-R-4.2.0
 
 Then click Launch to launch an Rstudio session, and connect the Rstudio session once it’s started
 
-![plot](./pic3.png)
+![plot](./pic4.png)
 
 2. Open the R project and markdown tutorial:
 
