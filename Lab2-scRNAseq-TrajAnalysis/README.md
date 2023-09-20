@@ -5,7 +5,7 @@
 
 1. Download "lab2-scRNAseq-TrajAnalysis.Rproj", "Trajectory_monocle2.Rmd", and "Trajectory_monocle3.Rmd" under 9-21-2023_L2_scRNA-seq(2)cell trajectory analysis/ from Files on Canvas.
 
-Pic
+![plot](./pic1.png)
 
 2. Upload the files to your project folder on HPC:
 
@@ -17,7 +17,7 @@ Open McCleary OnDemand at beng469.ycrc.yale.edu in a browser window, and go to F
 
 1. Launch an Rstudio-server session:
 
-Pic
+![plot](./pic2.png)
 
 Go to the Rstudio-server initialization page, and specify the parameters/resources as follows:
 
@@ -32,7 +32,7 @@ Additional modules (optional): R-bundle-Bioconductor/3.15-foss-2020b-R-4.2.0
 
 Then click Launch to launch an Rstudio session, and connect the Rstudio session once it’s started
 
-Pic
+![plot](./pic3.png)
 
 2. Open the R project and markdown tutorial:
 
