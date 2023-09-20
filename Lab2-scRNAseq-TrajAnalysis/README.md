@@ -3,7 +3,14 @@
 ## Pre-lab task: 
 (Estimated completion time: 5 mins)
 
+1. Download "lab2-scRNAseq-TrajAnalysis.Rproj", "Trajectory_monocle2.Rmd", and "Trajectory_monocle3.Rmd" under 9-21-2023 _ L2 _ scRNA-seq (2) cell trajectory analysis/ from Files on Canvas.
 
+Pic
+
+2. Upload the files to your project folder on HPC:
+
+
+3. 
 
 ## Part1: Trajectory analysis using Monocle 2 and Monocle 3
 
