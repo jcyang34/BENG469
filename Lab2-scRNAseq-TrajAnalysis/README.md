@@ -13,6 +13,8 @@ Open McCleary OnDemand at beng469.ycrc.yale.edu in a browser window, and go to F
 
 ![plot](./pic2.png)
 
+![plot](./pic3.png)
+
 ## During the lab session (Thursday):
 
 
