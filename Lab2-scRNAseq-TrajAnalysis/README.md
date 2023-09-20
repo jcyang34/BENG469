@@ -45,4 +45,4 @@ Lastly, click open “Trajectory_monocle2.Rmd” and “Trajectory_monocle3.Rmd�
 
 We will run the analysis in a python jupyter notebook using google colab, click the badge below to launch the notebook:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcyang34/BENG469_2022spring/blob/main/scRNA-seq-analysis-lab2/PHATE/PHATE.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcyang34/BENG469/blob/main/Lab2-scRNAseq-TrajAnalysis/PHATE.ipynb)
