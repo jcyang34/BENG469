@@ -11,13 +11,14 @@
 
 Open McCleary OnDemand at beng469.ycrc.yale.edu in a browser window, and go to Files menu and click open your project folder (/gpfs/gibbs/project/beng469/beng469_YourNetID). Then create a new directory called "lab2-scRNAseq-TrajAnalysis" and upload the files ("lab2-scRNAseq-TrajAnalysis.Rproj", "Trajectory_monocle2.Rmd", and "Trajectory_monocle3.Rmd") under this new directory.
 
+![plot](./pic2.png)
 
 ## During the lab session (Thursday):
 
 
 1. Launch an Rstudio-server session:
 
-![plot](./pic2.png)
+
 
 Go to the Rstudio-server initialization page, and specify the parameters/resources as follows:
 
