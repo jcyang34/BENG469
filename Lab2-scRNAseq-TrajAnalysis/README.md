@@ -1,3 +1,10 @@
+# BENG 469 Lab session 2 - instructions
+
+# Pre-lab task: 
+(Estimated completion time: 5 mins)
+
+
+
 ## Part1: Trajectory analysis using Monocle 2 and Monocle 3
 
 
