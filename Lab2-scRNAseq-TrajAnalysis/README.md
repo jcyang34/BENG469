@@ -24,21 +24,15 @@ Open McCleary OnDemand at beng469.ycrc.yale.edu in a browser window, and go to F
 
 Go to the Rstudio-server initialization page, and specify the parameters/resources as follows:
 
-"""
-R version: R/4.2.0-foss-2020b
-
-Number of hours: 6
-
-Number of CPU cores per node: 1
-
-Memory per CPU core in GiB: 10
-
-Partitions: day
-
-Reservation (optional): beng469
-
-Additional modules (optional): R-bundle-Bioconductor/3.15-foss-2020b-R-4.2.0
-"""
+| Parameters      | Values |
+| ----------- | ----------- |
+| R version      | R/4.2.0-foss-2020b       |
+| Number of hours   | 6        |
+| Number of CPU cores per node   | 1        |
+| Memory per CPU core in GiB   | 10       |
+| Partitions   | day        |
+| Reservation (optional)   | beng469        |
+| Additional modules (optional)  | R-bundle-Bioconductor/3.15-foss-2020b-R-4.2.0   |
 
 Then click Launch to launch an Rstudio session, and connect the Rstudio session once it’s started
 
