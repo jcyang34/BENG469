@@ -1,6 +1,6 @@
 # BENG 469 Lab session 2 - instructions
 
-# Pre-lab task: 
+## Pre-lab task: 
 (Estimated completion time: 5 mins)
 
 
